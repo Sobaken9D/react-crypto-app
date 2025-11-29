@@ -618,7 +618,7 @@ export const cryptoAssets = [
   },
   {
     id: 'ethereum',
-    amount: 5,
+    amount: 0.5,
     price: 2400,
     date: new Date(),
   },
